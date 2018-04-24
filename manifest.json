@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "h",
+  "description": "h",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "Hh.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
